@@ -1,0 +1,31 @@
+{
+  "ecosystem": "tidyfactor",
+  "track": "htmx",
+  "name": "tidyfactor-htmx",
+  "version": "1.0.0",
+  "npmPackage": "@alwkala/tidyfactor-htmx",
+  "github": "https://github.com/TidyFactor/HTMX",
+  "skillFile": "../tidyfactor-htmx.skill",
+  "category": "hypermedia",
+  "commands": [
+    "assets",
+    "forms",
+    "fragments",
+    "history",
+    "i18n",
+    "indicators",
+    "init",
+    "modules",
+    "swap",
+    "triggers"
+  ],
+  "foundations": [
+    "htmx-vanilla",
+    "htmx-alpine"
+  ],
+  "visionRef": "../TidyFactor-VISION.md",
+  "commercialPartner": "alwkala",
+  "website": "https://tidyfactor.com",
+  "docs": "https://tidyfactor.com/documentation",
+  "license": "Apache-2.0"
+}
