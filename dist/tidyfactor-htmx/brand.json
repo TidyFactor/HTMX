@@ -1,4 +1,15 @@
 {
-  "name": "tidyfactor-htmx",
-  "version": "1.0.0"
+  "name": "TidyFactor HTMX",
+  "version": "1.1.0",
+  "schemaVersion": "brand-core-v2",
+  "meta": {
+    "product": "TidyFactor HTMX",
+    "tagline": "Server-Driven Hypermedia Interactivity",
+    "description": "Hypermedia interaction layer (HTMX over server-rendered fragments), locally vendored with zero CDN dependencies.",
+    "owner": "TidyFactor Ecosystem",
+    "website": "https://tidyfactor.com",
+    "repo": "https://github.com/TidyFactor/HTMX",
+    "version": "1.1.0",
+    "lastUpdated": "2026-08-25"
+  }
 }
