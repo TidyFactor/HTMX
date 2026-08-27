@@ -1,7 +1,21 @@
-# tidyfactor-htmx
+<div align="center" dir="rtl">
 
-> التوثيق العربي لـ `tidyfactor-htmx`
+# ⚡ مهارة تايتفكتور للتفاعلية بالهايبرميديا `TidyFactor HTMX v1.1.0`
+### التفاعلية المعتمدة على السيرفر ومبادلة أجزاء HTML بدون أطر جافاسكريبت معقدة
 
+[![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-htmx.svg?style=for-the-badge&color=3366CC)](https://www.npmjs.com/package/@alwkala/tidyfactor-htmx)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
+[![RTL Native Arabic](https://img.shields.io/badge/RTL-Native%20Arabic-emerald.svg?style=for-the-badge)](#-معمارية-منظومة-tidyfactor)
+
+[⚡ الأوامر](#-أوامر-المهارة) • [🏛️ المنظومة](#-معمارية-منظومة-tidyfactor) • [📖 English Version](README.md)
+
+<br/><br/>
+
+<p align="center">
+  <img src="assets/hero-banner.png" alt="TidyFactor HTMX Hero Banner" width="100%" />
+</p>
+
+</div>
 
 ---
 

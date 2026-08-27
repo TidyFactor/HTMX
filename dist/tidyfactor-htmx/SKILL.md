@@ -1,8 +1,7 @@
 ---
 name: tidyfactor-htmx
-description: "TidyFactor HTMX track — Server-Driven Hypermedia Interactivity with Contextual Decision Layer (CDL). Features locally vendored HTMX (zero CDN dependency) layered over server-rendered fragments (pairs naturally with PHP, Node, or Python). Trigger on commands 'brief', 'init', 'fragments', 'swap', 'triggers', 'forms', 'indicators', 'history', 'assets', 'modules', 'i18n', or requests like 'add htmx to project', 'fix janky swap', 'vendor htmx locally', 'inline form validation htmx'. Anti-triggers: Do NOT use for React/Next.js or client-side JSON SPAs."
+description: "Server-Driven Hypermedia Interactivity engine with Contextual Decision Layer (CDL). Features locally vendored HTMX layered over server-rendered fragments (pairs with PHP, Node, Python). Trigger on commands 'brief', 'init', 'fragments', 'swap', 'triggers', 'forms', 'indicators', 'history', 'assets', 'i18n', or requests to add hypermedia interactions without SPAs."
 ---
-
 # TidyFactor HTMX (Server-Driven Hypermedia Interactivity)
 
 A command dispatcher for hypermedia-driven interfaces. This router declares commands and workflows without performing execution directly.

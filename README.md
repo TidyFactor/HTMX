@@ -1,8 +1,26 @@
-# TidyFactor HTMX
+<div align="center">
 
-The **HTMX track** of the TidyFactor skill library — a Claude skill for
-the hypermedia interaction layer: htmx over server-rendered fragments,
-vendored locally with no CDN dependency.
+# ⚡ TidyFactor HTMX `v1.1.0`
+### Server-Driven Hypermedia Interactivity & Contextual Decision Engine
+
+**The official hypermedia interaction track within the TidyFactor Architecture Ecosystem.**
+
+[![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-htmx.svg?style=for-the-badge&color=3366CC)](https://www.npmjs.com/package/@alwkala/tidyfactor-htmx)
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=for-the-badge)](LICENSE)
+[![RTL Ready](https://img.shields.io/badge/RTL-Native%20Arabic-emerald.svg?style=for-the-badge)](README.ar.md)
+[![Zero Build](https://img.shields.io/badge/Build-Zero%20Build%20Step-purple.svg?style=for-the-badge)](#-three-lifecycle-modes)
+
+[🚀 Quick Start](#-quick-start) • [⚡ 10 Commands](#-command-set) • [🏛️ Ecosystem](#%EF%B8%8F-tidyfactor-ecosystem-architecture) • [📖 بالعربية](README.ar.md)
+
+<br/><br/>
+
+<p align="center">
+  <img src="assets/hero-banner.png" alt="TidyFactor HTMX Hero Banner" width="100%" />
+</p>
+
+</div>
+
+---
 
 This is a **layer, not a full stack**. It owns how fragments get
 requested, swapped, validated, and made navigable — not backend
