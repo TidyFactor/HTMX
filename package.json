@@ -1,5 +1,5 @@
 {
-  "name": "@alwkala/tidyfactor-htmx",
+  "name": "@tidyfactor/htmx",
   "version": "1.2.0",
   "description": "TidyFactor HTMX track — Server-Driven Hypermedia Interactivity with Contextual Decision Layer (CDL)",
   "main": "SKILL.md",
@@ -19,7 +19,7 @@
     "claude-code",
     "cursor"
   ],
-  "author": "TidyFactor & Alwkala <hello@tidyfactor.com> (https://alwkala.com)",
+  "author": "TidyFactor <hello@tidyfactor.com> (https://tidyfactor.com)",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",

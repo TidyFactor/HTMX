@@ -1,6 +1,6 @@
 # Skill Registry — tidyfactor-htmx
 
-Identity: `tidyfactor-htmx` | Package: `@alwkala/tidyfactor-htmx` | Version: `1.0.0`
+Identity: `tidyfactor-htmx` | Package: `@tidyfactor/htmx` | Version: `1.0.0`
 
 ## Commands (10)
 ```
