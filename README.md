@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ TidyFactor HTMX `v1.1.0`
+# ⚡ TidyFactor HTMX `v1.2.0`
 ### Server-Driven Hypermedia Interactivity & Contextual Decision Engine
 
 **The official hypermedia interaction track within the TidyFactor Architecture Ecosystem.**

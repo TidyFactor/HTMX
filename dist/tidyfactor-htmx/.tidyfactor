@@ -2,7 +2,7 @@
   "ecosystem": "tidyfactor",
   "track": "htmx",
   "name": "tidyfactor-htmx",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "npmPackage": "@alwkala/tidyfactor-htmx",
   "github": "https://github.com/TidyFactor/HTMX",
   "skillFile": "../tidyfactor-htmx-v1.1.0.skill",

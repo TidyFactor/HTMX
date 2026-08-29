@@ -1,6 +1,6 @@
 <div align="center" dir="rtl">
 
-# ⚡ مهارة تايتفكتور للتفاعلية بالهايبرميديا `TidyFactor HTMX v1.1.0`
+# ⚡ مهارة تايتفكتور للتفاعلية بالهايبرميديا `TidyFactor HTMX v1.2.0`
 ### التفاعلية المعتمدة على السيرفر ومبادلة أجزاء HTML بدون أطر جافاسكريبت معقدة
 
 [![npm version](https://img.shields.io/npm/v/@alwkala/tidyfactor-htmx.svg?style=for-the-badge&color=3366CC)](https://www.npmjs.com/package/@alwkala/tidyfactor-htmx)
